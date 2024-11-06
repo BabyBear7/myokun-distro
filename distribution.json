@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "myokun-1.21",
-      "name": "myokun (Minecraft 1.21)",
+      "name": "대장 런처",
       "description": "myokun Running Minecraft 1.21 (Fabric v0.16.9)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/myokun-distro/main/IMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "lucymc.kr",
       "minecraftVersion": "1.21",
       "discord": {
@@ -142,8 +142,18 @@
           "artifact": {
             "size": 3639,
             "url": "https://raw.githubusercontent.com/BabyBear7/myokun-distro/main/servers/myokun-1.21/files/options.txt",
-            "MD5": "fbb6230371d8b3f9500e2f8072ba6ac2",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "VanillaTweaksr273753MC1.21.x.zip",
+          "name": "VanillaTweaksr273753MC1.21.x.zip",
+          "type": "File",
+          "artifact": {
+            "size": 230474,
+            "url": "https://raw.githubusercontent.com/BabyBear7/myokun-distro/main/servers/myokun-1.21/files/resourcepacks/VanillaTweaksr273753MC1.21.x.zip",
+            "MD5": "23791051a1e4c5a9f8c699668414d3d7",
+            "path": "resourcepacks/VanillaTweaksr273753MC1.21.x.zip"
           }
         }
       ]
