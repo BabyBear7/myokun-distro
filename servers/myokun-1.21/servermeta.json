@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/myokun/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "myokun (Minecraft 1.21)",
+    "description": "myokun Running Minecraft 1.21 (Fabric v0.16.9)",
+    "icon": "https://raw.githubusercontent.com/BabyBear7/myokun-distro/main/IMG.png",
+    "address": "lucymc.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": []
+}
